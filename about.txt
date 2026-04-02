@@ -2,3 +2,7 @@ Hi, i am Kirill
 lalala
 lalalala
 lalalala //_//
+
+1. 5 коммитов 
+
+2. первый коммит - c118e21
